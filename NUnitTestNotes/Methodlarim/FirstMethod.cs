@@ -2,7 +2,7 @@
 
 namespace Methodlarim
 {
-    public class Method
+    public class FirstMethod
     {
         public int Topla(int x,int y)
         {

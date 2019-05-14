@@ -15,7 +15,7 @@ namespace Methodlarim.Test
      * Bu test projesinin referanslarına diğer Methodlarim adli projeyi dahil ettik.
      */
     [TestFixture] // bir class'ın test class olabilmesi için TestFixture attribute ile süslenmesi lazım. Diğer test frameworklerde bu attr isimleri dğeişebilir ama mantık aynı.
-    public class MethodTests
+    public class FirstMethodTests
     {
         [Test] // bir methodun test methodu olabilmesi için Test attribute'dan beslenmesi(süslenmesi) lazım.
         public void ToplaMethoduCalisiyormu_Test() // Test methodunun isimlendirilmesi önemlidir. Gereksinim neyse onun adı_Test -> isimlendirme standardı
@@ -27,7 +27,7 @@ namespace Methodlarim.Test
             int beklenen = x + y; // beklediğimiz sonucu oluşturduk.
 
             // Act
-            Method method = new Method(); // test edeceğimiz class'ı çağırdık
+            FirstMethod method = new FirstMethod(); // test edeceğimiz class'ı çağırdık
             int testSonuc = method.Topla(x, y); // burada gerçekleşecek olan sonucu istedik.
 
             // Assert
