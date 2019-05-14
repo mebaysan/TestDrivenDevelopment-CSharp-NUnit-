@@ -12,7 +12,7 @@ namespace Methodlarim.Test
      * Arrange -> bir test methodunda hazırlıkların yapıldığı kısım. İhtiyacımız olan değişkenlerin tanımlandığı kısım.
      * Act     -> eyleme geçtiğimiz kısımdır. Test etmek istediğimiz fonksiyonu(methodu) çağırdığımız ve sonucu aldığımız kısım.
      * Assert  -> testimizin başarılı olup olmadığını belirlediğimiz kısımdır.
-     * Bu test projesine diğer Methodlarim adli projeyi dahil ettik.
+     * Bu test projesinin referanslarına diğer Methodlarim adli projeyi dahil ettik.
      */
     [TestFixture] // bir class'ın test class olabilmesi için TestFixture attribute ile süslenmesi lazım. Diğer test frameworklerde bu attr isimleri dğeişebilir ama mantık aynı.
     public class MethodTests
