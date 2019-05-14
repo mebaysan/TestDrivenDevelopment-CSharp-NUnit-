@@ -27,7 +27,7 @@ namespace Methodlarim.Test
             int beklenen = x + y; // beklediğimiz sonucu oluşturduk.
 
             // Act
-            Method method = new Method(); // arkada test için oluşturduğumuz class'ı dahil ettik.
+            Method method = new Method(); // test edeceğimiz class'ı çağırdık
             int testSonuc = method.Topla(x, y); // burada gerçekleşecek olan sonucu istedik.
 
             // Assert
