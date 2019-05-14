@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\bin\Debug\netcoreapp2.1\Methodlarim.deps.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\bin\Debug\netcoreapp2.1\Methodlarim.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\bin\Debug\netcoreapp2.1\Methodlarim.pdb
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.pdb
