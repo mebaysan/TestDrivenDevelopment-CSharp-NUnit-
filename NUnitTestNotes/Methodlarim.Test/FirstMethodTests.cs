@@ -48,6 +48,7 @@ namespace Methodlarim.Test
                                                                                                 // IsNotInstanceOfType -> belirttiğin değer beklediğin tipte değilse test başarılı olur.
                                                                                                 // IsNull           -> dönen değer eğer 'null' boş ise test başarıyla sonuçlanır.
                                                                                                 // IsNotNull        -> dönen değer null değilse test başarıyla sonuçlanır.
+                                                                                                // Fail             -> belli bir şartta testin fail olmasını istersek bu methodu kullanıyoruz.
         }
         [Test]
         public void CarpMethoduCalisiyormu_Test()
