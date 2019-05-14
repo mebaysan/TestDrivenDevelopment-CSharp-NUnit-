@@ -6,7 +6,11 @@ namespace Methodlarim
     {
         public int Topla(int x,int y)
         {
-            return x + y;
+            return x + y ;
+        }
+        public int Carp(int x, int y)
+        {
+            return x * y;
         }
     }
 }

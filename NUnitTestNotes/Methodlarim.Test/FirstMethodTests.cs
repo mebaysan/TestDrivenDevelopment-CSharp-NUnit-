@@ -38,8 +38,28 @@ namespace Methodlarim.Test
             int testSonuc = method.Topla(x, y); // burada gerçekleşecek olan sonucu istedik.
 
             // Assert
-            Assert.AreEqual(beklenen, testSonuc); // İstediğimiz sonuç şu -> beklenen değer ile (ilk parametre) gerçekleşen değer (ikinci parametre) birbirine eşit olması.
+            Assert.AreEqual(beklenen, testSonuc, "{0} + {1} = {2} olmalıdır ", x, y, beklenen); // İstediğimiz sonuç şu -> beklenen değer ile (ilk parametre) gerçekleşen değer (ikinci parametre) birbirine eşit olması.
+                                                                                                // verdiğimiz 3. parametre test fail olursa gösterilecek olan mesajdır.
+                                                                                                // AreNotEqual -> bu method istediğimiz değer dışında bir şey olursa testi başarıyla sonuçlandırır. '!=' düşünebiliriz.
+                                                                                                // AreSame  -> AreEqual değerlerinin aynı olmasına bakarken, are same referanslarının aynı olmasına bakar.
+                                                                                                // AreNotSame -> bu ise AreNotEqual gibidir. Referansları eşit değilse test başarılı geçer.
+                                                                                                // Inonclusive -> test başarılı fakat yeterli değil anlamındadır.
+                                                                                                // IsInstanceOfType -> belirttiğimiz değerin o tipte olup olmadığına bakar --> Assert.IsInstanceOfType(beklenen,typeof(string))
+                                                                                                // IsNotInstanceOfType -> belirttiğin değer beklediğin tipte değilse test başarılı olur.
+                                                                                                // IsNull           -> dönen değer eğer 'null' boş ise test başarıyla sonuçlanır.
+                                                                                                // IsNotNull        -> dönen değer null değilse test başarıyla sonuçlanır.
+        }
+        [Test]
+        public void CarpMethoduCalisiyormu_Test()
+        {
+            Random random = new Random();
+            int x = random.Next(3, 50);
+            int y = random.Next(5, 30);
+            int beklenen = x * y * 2; // beklenen değer
 
+            FirstMethod firstMethod = new FirstMethod();
+            int testSonuc = firstMethod.Carp(x, y);
+            Assert.AreNotEqual(beklenen, testSonuc); // beklediğimiz değer ile sonuc değeri birbirine eşit olmadığı için test başarıyla sonuçlandı.
         }
         [TearDown]
         public void Logla()
