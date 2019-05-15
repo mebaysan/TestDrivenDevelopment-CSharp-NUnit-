@@ -58,7 +58,10 @@ namespace Methodlarim.Test
          * CollectionAssert.AllItemsAreNotNull -> gelen listede 'null' değer olmamalıdır. eğer 1 tane bile null değer varsa test başarısız olur.
          * CollectionAssert.AllItemsAreUnique  -> gelen her elemandan sadece 1 tane olmalıdır. eğer aynı elemandan 2 tane varsa test başarısız (fail) olur.
          * CollectionAssert.AllItemsAreUnique  -> CollectionAssert.AllItemsAreUnique(liste,typeof(string)) --> gelen elemanları hepsinin aynı tipte olmasını ister. yoksa test fail olursa. 
-         * 
+         * CollectionAssert.IsSubsetOf   -> bir listenin diğer bir listenin kümesi olup olmadığına karar verir. eğer kümesi ise test başarılı olur.
+         * CollectionAssert.IsNotSubsetOf -> bir liste diğer bir listenin alt kümesi değil ise test başarılı olur.
+         * CollectionAssert.Contains(liste,"baysan") -> gönderdiğimiz liste verilen parametreyi içeriyorsa test başarılı olur.
+         * CollectionAssert.DoesNotContain(liste,"baysan") -> gönderdiğimiz listede verilen parametre yoksa tet başarılı olur.
          */
         [Test]
         public void CarpMethoduCalisiyormu_Test()
