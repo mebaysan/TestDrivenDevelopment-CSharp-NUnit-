@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\bin\Debug\netcoreapp2.1\TestContext.deps.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\bin\Debug\netcoreapp2.1\TestContext.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\bin\Debug\netcoreapp2.1\TestContext.pdb
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\obj\Debug\netcoreapp2.1\TestContext.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\obj\Debug\netcoreapp2.1\TestContext.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\obj\Debug\netcoreapp2.1\TestContext.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\obj\Debug\netcoreapp2.1\TestContext.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\TestContext\obj\Debug\netcoreapp2.1\TestContext.pdb

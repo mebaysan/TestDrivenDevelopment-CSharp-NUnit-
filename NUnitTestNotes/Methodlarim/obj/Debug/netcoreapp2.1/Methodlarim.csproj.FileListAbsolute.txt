@@ -6,4 +6,3 @@ C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Me
 C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.AssemblyInfo.cs
 C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.dll
 C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.pdb
-C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes\Methodlarim\obj\Debug\netcoreapp2.1\Methodlarim.csprojAssemblyReference.cache
