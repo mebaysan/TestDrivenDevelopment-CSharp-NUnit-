@@ -50,6 +50,14 @@ namespace Methodlarim.Test
                                                                                                 // IsNotNull        -> dönen değer null değilse test başarıyla sonuçlanır.
                                                                                                 // Fail             -> belli bir şartta testin fail olmasını istersek bu methodu kullanıyoruz.
         }
+        /*          Collection Asserts
+         * CollectionAssert.AreEqual -> elemanlar ve sıraları aynı olmalıdır.
+         * CollectionAssert.AreEquivalent -> elemanlar aynı fakat sırası farklı olabilir.
+         * CollectionAssert.AreNotEqual  -> elemanlar ve sırası farklı olmalıdır.
+         * CollectionAssert.AreNotEquivalent -> elemanlar farklı olmalıdır.
+         * 
+         * 
+         */
         [Test]
         public void CarpMethoduCalisiyormu_Test()
         {
