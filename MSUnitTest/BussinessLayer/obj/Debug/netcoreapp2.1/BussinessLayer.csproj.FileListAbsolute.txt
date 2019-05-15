@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb

@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "BussinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/BussinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessLayer.dll": {}
+        }
       }
     }
   },
@@ -5810,10 +5820,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "BussinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../BussinessLayer/BussinessLayer.csproj",
+      "msbuildProject": "../BussinessLayer/BussinessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "BussinessLayer >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -5849,7 +5865,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Yusuf\\source\\repos\\TestDrivenDevelopment-CSharp.NUnit\\MSUnitTest\\BussinessLayer\\BussinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Yusuf\\source\\repos\\TestDrivenDevelopment-CSharp.NUnit\\MSUnitTest\\BussinessLayer\\BussinessLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
