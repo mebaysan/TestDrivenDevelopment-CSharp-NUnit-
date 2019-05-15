@@ -63,6 +63,13 @@ namespace Methodlarim.Test
          * CollectionAssert.Contains(liste,"baysan") -> gönderdiğimiz liste verilen parametreyi içeriyorsa test başarılı olur.
          * CollectionAssert.DoesNotContain(liste,"baysan") -> gönderdiğimiz listede verilen parametre yoksa tet başarılı olur.
          */
+        /*         String Asserts
+         * StringAssert.Contains("sadasd","ds") -> eğer ilk parametre içinde 2. parametre varsa test başarılı olur.
+         * StringAssert.Matches -> regex'e göre arama yapar.
+         * StringAssert.DoesNotMatch
+         * StringAssert.StartsWith("adsasd","sad") -> eğer ilk parametre ikinci parametre ile başlıyorsa test başarılıdır.
+         * StringAssert.EndsWith("asdasd","d")     -> eğer ilk parametre ikinci parametre ile bitiyorsa test başarılıdır.
+         */
         [Test]
         public void CarpMethoduCalisiyormu_Test()
         {
