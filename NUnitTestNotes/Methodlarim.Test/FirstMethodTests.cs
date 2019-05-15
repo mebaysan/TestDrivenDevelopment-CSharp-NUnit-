@@ -55,7 +55,9 @@ namespace Methodlarim.Test
          * CollectionAssert.AreEquivalent -> elemanlar aynı fakat sırası farklı olabilir.
          * CollectionAssert.AreNotEqual  -> elemanlar ve sırası farklı olmalıdır.
          * CollectionAssert.AreNotEquivalent -> elemanlar farklı olmalıdır.
-         * 
+         * CollectionAssert.AllItemsAreNotNull -> gelen listede 'null' değer olmamalıdır. eğer 1 tane bile null değer varsa test başarısız olur.
+         * CollectionAssert.AllItemsAreUnique  -> gelen her elemandan sadece 1 tane olmalıdır. eğer aynı elemandan 2 tane varsa test başarısız (fail) olur.
+         * CollectionAssert.AllItemsAreUnique  -> CollectionAssert.AllItemsAreUnique(liste,typeof(string)) --> gelen elemanları hepsinin aynı tipte olmasını ister. yoksa test fail olursa. 
          * 
          */
         [Test]
