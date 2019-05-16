@@ -1,0 +1,17 @@
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.Test.deps.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.Test.runtimeconfig.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.Test.runtimeconfig.dev.json
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.Test.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.Test.pdb
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.dll
+C:\Users\Yusuf\source\repos\TestDrivenDevelopment-CSharp.NUnit\MSUnitTest\BussinessLayer.Test\obj\Debug\netcoreapp2.1\BussinessLayer.Test.pdb
