@@ -26,3 +26,11 @@ C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-N
 C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
 C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.pdb
 C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\meb\Desktop\TestDrivenDevelopment-CSharp.NUnit\NUnitTestNotes.2\Intro-NUnit\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
